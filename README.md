@@ -1,5 +1,5 @@
 ## Hi there,I'm Yaser Soheilifar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align="center"> 🌱 I like computers :heart: and I always trying to learning :sunglasses: </p>
+<p align="center"> 🌱 I like computers :heart: and I always trying to learn :sunglasses: </p>
 <p align="center"> :computer: Talk is Cheap , Show Me The CODE :computer: </p>
 
 <p align="center">
