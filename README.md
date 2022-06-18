@@ -1,4 +1,4 @@
-## Hi there,I'm Yaser Soheilifar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+## Hi there,I'm Yaser Soheilifar
 <p align="center"> 🌱 I like computers :heart: and I always trying to learn :sunglasses: </p>
 <p align="center"> :computer: Talk is Cheap , Show Me The CODE :computer: </p>
 
