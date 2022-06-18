@@ -1,9 +1,9 @@
-## Hi there,I'm Yaser Soheilifar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+## Hi there,I'm Yaser Soheilifar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
 <p align="center"> 🌱 I like computers :heart: and I always trying to learn :sunglasses: </p>
 <p align="center"> :computer: Talk is Cheap , Show Me The CODE :computer: </p>
 
 <p align="center">
-  <img width="150" height="150" src="https://s4.uupload.ir/files/1_dl09.gif">
+  <img width="300" height="300" src="https://s4.uupload.ir/files/1_dl09.gif">
 </p>
 
 <!---
