@@ -3,7 +3,7 @@
 <p align="center"> :computer: Talk is Cheap , Show Me The CODE :computer: </p>
 
 <p align="center">
-  <img width="300" height="300" src="https://s4.uupload.ir/files/1_dl09.gif">
+  <img width="150" height="150" src="https://s4.uupload.ir/files/1_dl09.gif">
 </p>
 
 <!---
