@@ -1,4 +1,4 @@
-:wave: ### Hi there! 
+### Hi there! :wave:
 
  <strong>
   🔭  My Professional skills
