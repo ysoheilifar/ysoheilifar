@@ -1,7 +1,7 @@
 ### Hi there
 
  <strong>
-  🔭  My Professional skills
+  🔭  My Programming skills
   </strong>
 
 <p align="center"> 
@@ -10,8 +10,8 @@
   
 </p>
 <p align="left"> My passion in computers has made me to do my best to keep my knowledge at the highest possible level over the years. </p>
-<p align="left">  I am always trying to look at things differently and come up with new ideas. </p>
-<p align="left">  If you want to know more about me, visit my [linkedin](https://www.linkedin.com/in/ysoheilifar) .</p>
+<p align="left"> I am always trying to look at things differently and come up with new ideas. </p>
+<p align="left"> If you want to know more about me, visit my [linkedin](https://www.linkedin.com/in/ysoheilifar). /p>
 
 ⚡ If you’d like to get in touch, feel free to say hello through any of the social medias.
 
