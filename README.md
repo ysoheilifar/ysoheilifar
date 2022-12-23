@@ -1,16 +1,25 @@
 ### Hi there
-<p align="left"> 🔭 My Professional skills </p>
+
+ <strong>
+  🔭  My Professional skills
+  </strong>
+
+<p align="center"> 
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,python,bash&theme=dark)](https://zarbinnetwork.ir)
+  
+</p>
 <p align="left"> My passion in computers has made me to do my best to keep my knowledge at the highest possible level over the years. </p>
 <p align="left">  I am always trying to look at things differently and come up with new ideas. </p>
-<p align="center"> :computer: Talk is Cheap , Show Me The CODE :computer: </p>
 
+⚡ If you’d like to get in touch, feel free to say hello through any of the social medias.
 
-<!---
-ysoheilifar/ysoheilifar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @ysoheilifar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+  <a href="https://www.linkedin.com/in/ysoheilifar/" target="_blank">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+   
+  <a href="https://www.instagram.com/yaser.s0/" target="_blank">
+    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>  
+<br />
