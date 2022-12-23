@@ -1,5 +1,5 @@
 ## Hi there,I'm Yaser Soheilifar
-<p align="center"> 🌱 I like computers :heart: and I always trying to learn :sunglasses: </p>
+<p align="center"> My passion in computers has made me to do my best to keep my knowledge at the highest possible level over the years. </p>
 <p align="center"> :computer: Talk is Cheap , Show Me The CODE :computer: </p>
 
 <p align="center">
