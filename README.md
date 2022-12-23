@@ -1,5 +1,7 @@
 ### Hi there
+<p align="center"> 🔭 My Professional skills </p>
 <p align="center"> My passion in computers has made me to do my best to keep my knowledge at the highest possible level over the years. </p>
+<p align="center">  I am always trying to look at things differently and come up with new ideas. </p>
 <p align="center"> :computer: Talk is Cheap , Show Me The CODE :computer: </p>
 
 <p align="center">
