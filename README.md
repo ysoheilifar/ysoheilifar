@@ -1,4 +1,4 @@
-### Hi there
+### Hi there!
 
  <strong>
   🔭  My Professional skills
