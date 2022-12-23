@@ -1,7 +1,7 @@
 ### Hi there
 
  <strong>
-  🔭  My Programming skills
+  🔭  My Professional skills
   </strong>
 
 <p align="center"> 
