@@ -1,7 +1,7 @@
 ### Hi there!
 
  <strong>
-  🔭  My Professional skills
+  🔭  My few skills
   </strong>
 
 <p align="center"> 
