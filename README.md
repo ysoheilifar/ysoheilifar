@@ -6,7 +6,7 @@
 
 <p align="center"> 
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,linux,bash,powershell,php,python&theme=dark)](https://zarbinnetwork.ir)
+[![My Skills](https://skillicons.dev/icons?i=html,css,linux,bash,powershell,php,python,go&theme=dark)](https://zarbinnetwork.ir)
   
 </p>
 My passion in computers has made me to do my best to keep my knowledge at the highest possible level over the years.
